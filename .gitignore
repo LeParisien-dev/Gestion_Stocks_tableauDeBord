@@ -1,0 +1,24 @@
+# 🔐 fichiers sensibles
+raw_data/credentials.json
+
+# 🐍 environnements virtuels
+venv/
+.env/
+
+# ⚙️ caches et artefacts Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📓 Jupyter
+.ipynb_checkpoints/
+data_cleaning/.ipynb_checkpoints/
+analysis/.ipynb_checkpoints/
+
+# 💻 fichiers système
+.DS_Store
+Thumbs.db
+
+# 📦 exports et fichiers générés automatiquement
+exports_tableau/
