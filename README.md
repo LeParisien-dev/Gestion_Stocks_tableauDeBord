@@ -40,9 +40,25 @@ Prédiction des ruptures (Risque_Rupture)
 
 Logistic Regression avec gestion des classes déséquilibrées
 Colonne ajoutée au DataFrame et utilisée pour visualisation Tableau
-Instructions pour reproduire
-Cloner le dépôt :
+
+
+Instructions pour reproduire :
+1. Cloner le dépôt :
 git clone https://github.com/LeParisien-dev/Gestion_Stocks_tableauDeBord.git
 
-Capture d'écran du tableau de bord :
+2. Installer les dépendances (exemple via pip) :
+
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+3. Ouvrir le notebook analysis/01_pipeline_complet.ipynb dans Jupyter Notebook ou VS Code.
+
+4. Lancer tout en bas la cellule contenant run_pipeline() → tous les exports et graphiques seront générés automatiquement.
+
+TABLEAU PUBLIC :
 https://public.tableau.com/authoring/TableauDeBordSimulation/Tableaudebord1#1
+
+
+Notes projet :
+Données simulées pour démonstration
+Contrôle automatique dans la prédiction pour éviter les erreurs si trop peu de ruptures
+Pipeline conçu pour exécution automatisée en 1 clic, pratique pour un workflow réel
