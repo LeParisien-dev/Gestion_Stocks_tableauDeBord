@@ -69,6 +69,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 //////////////////
 
+DONNÉES STOCKÉES :
+Google sheet mise en ligne (cliquer sur les onglets en bas pour visualiser les feuilles)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQW61jbUF--qJfECTb315McIU8LVBaUEO4rUtZ6zPD0jUCJUbhz8aTZr4xD2X1BooqHDvl3Cy8IvM5K/pubhtml#gid=1156000236
+
 TABLEAU PUBLIC :
 https://public.tableau.com/authoring/TableauDeBordSimulation/Tableaudebord1#1
 
@@ -180,6 +184,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 4. Run the cell at the bottom containing run_pipeline() → all CSV exports and visualizations will be generated automatically.
 
 ///////////////////////
+
+Collected data :
+Google sheet (click below to see the different spreadsheets)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQW61jbUF--qJfECTb315McIU8LVBaUEO4rUtZ6zPD0jUCJUbhz8aTZr4xD2X1BooqHDvl3Cy8IvM5K/pubhtml#gid=1156000236
 
 Tableau Public
 View Dashboard :
